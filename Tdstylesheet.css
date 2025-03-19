@@ -1,0 +1,70 @@
+
+body {
+	font: size 10px;
+    padding:100px 100px auto;
+    margin: 500px 400px auto;
+    margin-bottom: 300px;
+    background-color:cornsilk;
+    border: solid white 5px;
+    text-align: center;
+    
+    
+}
+
+div{
+    padding: 5px ;
+
+}
+
+input{
+    background-origin: padding-box;
+}
+
+li{
+    margin-top: 2px 20px;
+}
+
+    
+     
+
+
+
+
+    text-align: center;
+    font-style:italic;
+}*/
+
+    
+
+	
+  
+        
+
+::placeholder {
+font-size: 11px;
+font-family: 'Arial Narrow', Arial,
+
+}
+
+
+
+
+    .button {
+        width: 200px;
+    background-color: bisque;
+    
+        
+    }
+        
+    
+         .credit {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        padding: 15px;
+        color: brown
+
+
+}
+
+ 
